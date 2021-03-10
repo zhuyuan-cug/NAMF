@@ -1,2 +1,2 @@
 # NAMF
-This project is for our paper "NAMF: A NON-LOCAL ADAPTIVE MEAN FILTER FOR SALT-AND-PEPPER NOISE REMOVAL".
+This project is for our paper "NAMF: A Nonlocal Adaptive Mean Filter for Removal of Salt-and-Pepper Noise".
